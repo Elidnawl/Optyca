@@ -5,4 +5,9 @@ nav { background:#111; padding:10px; text-align:center; }
 nav a { color:white; margin:0 15px; text-decoration:none; font-weight:bold; }
 section { padding:40px; max-width:900px; margin:auto; }
 footer { text-align:center; padding:20px; background:#111; color:white; margin-top:40px; }
-.logo { width:80px; display:block; margin:0 auto 20px auto; }
+.logo-frame {
+    width: 120px;
+    height: 120px;
+    border: none;
+    background: transparent;
+}
