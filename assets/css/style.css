@@ -79,3 +79,38 @@ footer {
     color:white;
     margin-top:40px;
 }
+
+/* === OPTION B: ICON + TEXT SIDE-BY-SIDE === */
+
+.services-container {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.services-container h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.service-item {
+    display: flex;
+    align-items: center;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.service-item img {
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+}
+
+.service-item p {
+    margin: 0;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
