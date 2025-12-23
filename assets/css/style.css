@@ -150,3 +150,40 @@ footer {
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
+.how-we-work {
+    text-align: center;
+    padding: 60px 20px;
+    background-color: #f5f8fc; /* light background */
+}
+
+.how-we-work h2 {
+    font-size: 2em;
+    margin-bottom: 15px;
+    color: #1f3c5b;
+}
+
+.how-we-work-text {
+    max-width: 800px;
+    margin: 0 auto 30px;
+    font-size: 1.1em;
+    color: #444;
+}
+
+.how-we-work-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
