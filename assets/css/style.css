@@ -170,9 +170,8 @@ footer {
 }
 
 .how-we-work-image {
-    max-width: 300%;
-    height: auto;
-    border-radius: 8px;
+    max-width: 680px;
+    object-fit: contain;
 }
 
 
