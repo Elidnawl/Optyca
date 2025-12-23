@@ -5,6 +5,16 @@ body {
     background:#f7f7f7;
 }
 
+h1, h2, h3 {
+    margin-top: 0;
+}
+
+ul {
+    margin-bottom: 0;
+}
+
+
+
 /* HEADER */
 header {
     background-image: url('../images/header.png');
