@@ -163,14 +163,14 @@ footer {
 }
 
 .how-we-work-text {
-    max-width: 800px;
+    max-width: 600px;
     margin: 0 auto 30px;
     font-size: 1.1em;
     color: #444;
 }
 
 .how-we-work-image {
-    max-width: 100%;
+    max-width: 600%;
     height: auto;
     border-radius: 8px;
 }
